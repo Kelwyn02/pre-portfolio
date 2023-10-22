@@ -88,12 +88,8 @@ body *{
     transform: translateY(-50%);
     cursor: pointer;
     animation: slide-out 0.4s forwards;
-    transition: all 0.2s;
 }
 
-#switch button:hover{
-    outline: 8px solid var(--light-hover)
-}
 
 #switch span{
     display: block;
