@@ -11,7 +11,7 @@
 /* modo light */
 :root{
     --text-color: white;
-    --bg-url: url(./assets/bg-mobile.jpg);
+    --bg-url: url(./assets/bg-mobile2.jpg);
     --bg-switch: url(./assets/sun.svg);
     --stroke-color: rgba(255, 255, 255, 0.5);
     --surface-color: rgba(255,255,255, 0.05);
